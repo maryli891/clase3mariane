@@ -5,10 +5,13 @@
  */
 package clase3mariane;
 
-/**
- *
+/**************************************************************************
+ *Mariane Muñoz Gonzalez
  * @author LC22
- */
+ * Fecha:Octubre 26 de 2017
+ * Programa: Clase3Mariane
+ * Responsabilidad:Clase Principal
+ *************************************************************************/
 public class Clase3Mariane {
 
     /**
